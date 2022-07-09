@@ -25,6 +25,5 @@
 
 <div align="center">
   
-![Jinwon-Dev's github stats](https://github-readme-stats.vercel.app/api?username=Jinwon-Dev&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinwon-Dev&layout=compact&theme=dark)
+![Jinwon-Dev's github stats](https://github-readme-stats.vercel.app/api?username=Jinwon-Dev&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinwon-Dev&layout=compact&theme=dark)
  </div>
