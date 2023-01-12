@@ -28,6 +28,11 @@
 
 </br>
 
+### 💡 My Everything
+- [About Me](https://jinwonyoon.notion.site/ca61fdd247624aa28f2faadba120a252)
+
+</br>
+
 ### 🙏🏻 Thank you
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinwon-Dev&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
