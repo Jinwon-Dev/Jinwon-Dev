@@ -1,40 +1,9 @@
-### 🧑🏻‍💻 About Me!
-```Json
-{
-  "name": "Yoon Jin Won"
-  "age": "25"
-  "lab": "Wisoft in Hanbat National University"
-  "everyday": "records rather than memories"
-  "let's go": "Java Developer"
-}
-```
+## About Me!
+안녕하세요, 태양광 및 에너지 관리 서비스 스타트업에서 Java & Spring Boot 기반의 2년차 서버 개발자로 재직하고 있습니다.
 
-</br>
-
-### 🔥 Jinwon's daily
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
-<a href="https://jinwonyoon.notion.site" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
-<a href="https://github.com/Jinwon-Dev" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://jinwon-yoon.gitbook.io/jinonys-blog/v/jinonys-til/" target="_blank"><img src="https://img.shields.io/badge/Gitbook-3884FF?style=flat-square&logo=gitbook&logoColor=white"/></a>
-
-
-</br>
-
-### ✏️ Learning now
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
-
-</br>
-
-### 💡 My Everything
-- [About Me](https://jinwonyoon.notion.site/ca61fdd247624aa28f2faadba120a252)
-
-</br>
-
-### 🙏🏻 Thank you
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinwon-Dev&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+- Contact : jw990526@gmail.com
+- Velog : https://velog.io/@jinony
+- Resume : [서버 개발자 윤진원 이력서](https://jinwonyoon.notion.site/02c5d32ded804ff88a5de1dc8f291f2f?pvs=4)
 
 </br>
 
