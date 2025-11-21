@@ -1,5 +1,5 @@
 ## About Me!
-안녕하세요, 태양광 및 에너지 관리 서비스 스타트업에서 Java & Spring Boot 기반의 2년차 서버 개발자로 재직하고 있습니다.
+안녕하세요, 태양광 및 에너지 관리 서비스 스타트업에서 Java & Spring Boot 기반의 3년차 서버 개발자로 재직하고 있습니다.
 
 - Contact : jw990526@gmail.com
 - Velog : https://velog.io/@jinony
